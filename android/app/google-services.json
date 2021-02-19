@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "650553034034",
+    "firebase_url": "https://doggie-app-48e12.firebaseio.com",
+    "project_id": "doggie-app-48e12",
+    "storage_bucket": "doggie-app-48e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650553034034:android:789fd8c6bc89a5f086032b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650553034034-m8aalmkad3li3djqvos8efqrurase85k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_cm-Ai71dkZ3JU-EYMAJlRGgDF-8KT2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650553034034-m8aalmkad3li3djqvos8efqrurase85k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
